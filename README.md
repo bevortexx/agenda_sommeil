@@ -7,8 +7,8 @@ Application gratuite et open-source pour suivre **la qualité de sommeil ressent
 Permettre à chacun de noter facilement, jour après jour :
 - Les horaires de coucher et de lever
 - La qualité du sommeil (TB / B / Moy / M / TM)
-- La qualité du réveil
-- La forme pendant la journée
+- La qualité du réveil (TB / B / Moy / M / TM)
+- La forme pendant la journée (TB / B / Moy / M / TM)
 - Les traitements et remarques particulières
 
 Le but est d’obtenir un historique clair sur 15, 30 jours ou plus, avec :
